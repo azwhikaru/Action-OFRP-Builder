@@ -56,3 +56,5 @@ For example, your username is: JohnSmith
 
 ## Compilation results
 Can be downloaded at [Release](../../releases)
+
+File not being uploaded to Release? Please check the step 'Check the output directory before uploading' and check the file name

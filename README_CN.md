@@ -55,3 +55,5 @@
 
 ## 编译结果
 可以在 [Release](../../releases) 下载
+
+文件没有被上传到 Release？请检查步骤 "Check the output directory before uploading" 并检查文件名
