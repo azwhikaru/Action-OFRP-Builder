@@ -14,15 +14,15 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/OrangeFoxRecovery/device_xiaomi_garden'
+        default: 'https://github.com/xindaowei0/dagu_device_tree'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'fox_11.0_Q'
+        default: 'main'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/xiaomi/garden'
+        default: 'device/xiaomi/dagu'
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: false
